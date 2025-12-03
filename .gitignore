@@ -3,3 +3,5 @@ day1/zig-out/bin
 leaderboardcode.txt
 day2/.zig-cache
 day2/zig-out/bin
+day3/.zig-cache
+day3/zig-out/bin
